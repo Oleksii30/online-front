@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "type": "window",
+    "room": "living room"
+  },
+  {
+    "id": "2",
+    "type": "window",
+    "room": "kitchen"
+  },
+  {
+    "id": "3",
+    "type": "window",
+    "room": "bedroom"
+  },
+  {
+    "id": "4",
+    "type": "window",
+    "room": "bathroom"
+  },
+  {
+    "id": "5",
+    "type": "movement",
+    "room": "kitchen"
+  },
+  {
+    "id": "6",
+    "type": "movement",
+    "room": "bedroom"
+  }
+]

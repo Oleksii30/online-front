@@ -1,0 +1,8 @@
+@import '../../../components/variables.css';
+
+.loadingContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
